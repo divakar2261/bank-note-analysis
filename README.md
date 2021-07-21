@@ -1,7 +1,7 @@
 # Bank Note Analysis
 THE APP IS LIVE HERE ---> https://banknote2261.herokuapp.com/
 
-![Banknote](https://images.pexels.com/photos/5980584/pexels-photo-5980584.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5980584.jpg&fm=jpg)
+![Banknote](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.leftovercurrency.com%2Fexchange%2Findian-rupees%2Fwithdrawn-indian-rupee-banknotes%2F10-indian-rupees-banknote-gandhi-no-date%2F&psig=AOvVaw0vaBPxiCimPkW4W2ejio2T&ust=1626921161479000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDv0-WP8_ECFQAAAAAdAAAAABAD)
 
 Data Set Information:
 [UCI Repository](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)

@@ -1,7 +1,7 @@
 # Bank Note Analysis
 THE APP IS LIVE HERE ---> https://banknote2261.herokuapp.com/
 
-![Banknote](https://www.pexels.com/photo/10-us-dollar-bill-5980584/)
+![Banknote](https://images.pexels.com/photos/5980584/pexels-photo-5980584.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5980584.jpg&fm=jpg)
 
 Data Set Information:
 [UCI Repository](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
